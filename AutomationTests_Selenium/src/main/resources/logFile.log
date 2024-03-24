@@ -1,0 +1,68 @@
+2024-03-24 11:51:47 [INFO ] driverFrameworkCore.utils.ListenerLogMessages - Test STARTED: normalHatosLottoTest
+2024-03-24 11:51:52 [INFO ] szerencsejatek.common.homeAndLogin.pages.HomePage - We click on the "Osszes engedelyezese" button
+2024-03-24 11:52:02 [INFO ] szerencsejatek.common.homeAndLogin.pages.HomePage - We click on the "Belepes es regisztracio" button
+2024-03-24 11:52:02 [INFO ] szerencsejatek.common.homeAndLogin.pages.LoginPage - We fill the name input field with the 'Szabolcs888'
+2024-03-24 11:52:02 [INFO ] szerencsejatek.common.homeAndLogin.pages.LoginPage - We fill the password input field with the password
+2024-03-24 11:52:02 [INFO ] szerencsejatek.common.homeAndLogin.pages.LoginPage - We click on the "Bejelentkezes" button
+2024-03-24 11:52:04 [INFO ] szerencsejatek.lotto.tests.HatosLottoTests - We check if the dropdown menu is available
+2024-03-24 11:52:05 [INFO ] szerencsejatek.common.homeAndLogin.pages.HomePageLoggedin - We try to click on middle button but it is not clickable
+2024-03-24 11:52:09 [INFO ] szerencsejatek.common.homeAndLogin.pages.HomePageLoggedin - We select five numbers
+2024-03-24 11:52:10 [INFO ] szerencsejatek.common.homeAndLogin.pages.HomePageLoggedin - We select another number
+2024-03-24 11:52:10 [INFO ] szerencsejatek.common.homeAndLogin.pages.HomePageLoggedin - We try to select another number
+2024-03-24 11:52:13 [INFO ] szerencsejatek.common.homeAndLogin.pages.HomePageLoggedin - We click on the middle submit button
+2024-03-24 11:52:13 [INFO ] szerencsejatek.lotto.tests.HatosLottoTests - We check if the Hatoslotto page is loaded
+2024-03-24 11:52:14 [INFO ] szerencsejatek.lotto.pages.HatosLottoPage - We click on the 'TORLES' button
+2024-03-24 11:52:17 [INFO ] szerencsejatek.lotto.pages.HatosLottoPage - We click on the 'TORLES' button
+2024-03-24 11:52:17 [INFO ] szerencsejatek.lotto.tests.HatosLottoTests - We check whether the number of selected numbers is zero
+2024-03-24 11:52:20 [INFO ] szerencsejatek.lotto.pages.HatosLottoPage - We click on "KOSARBA" button
+2024-03-24 11:52:21 [INFO ] szerencsejatek.lotto.pages.HatosLottoPage - We click on the 'BEZARAS' button
+2024-03-24 11:52:25 [INFO ] szerencsejatek.lotto.pages.HatosLottoPage - We select five numbers
+2024-03-24 11:52:28 [INFO ] szerencsejatek.lotto.pages.HatosLottoPage - We click on "KOSARBA" button
+2024-03-24 11:52:28 [INFO ] szerencsejatek.lotto.pages.HatosLottoPage - We click on the 'BEZARAS' button
+2024-03-24 11:52:32 [INFO ] szerencsejatek.lotto.pages.HatosLottoPage - We select another number
+2024-03-24 11:52:32 [INFO ] szerencsejatek.lotto.pages.HatosLottoPage - We try to select another number
+2024-03-24 11:52:32 [INFO ] szerencsejatek.lotto.tests.HatosLottoTests - We check that 6 numbers are selected
+2024-03-24 11:52:35 [INFO ] szerencsejatek.lotto.pages.HatosLottoPage - We click on "KOSARBA" button
+2024-03-24 11:52:38 [INFO ] szerencsejatek.common.cart.pages.CartPage - We check if the cart page is loaded
+2024-03-24 11:52:38 [INFO ] szerencsejatek.lotto.tests.HatosLottoTests - We check if the Cart page is loaded
+2024-03-24 11:52:38 [INFO ] szerencsejatek.common.cart.pages.CartPage - We check if the cart page is loaded
+2024-03-24 11:52:38 [INFO ] driverFrameworkCore.utils.ListenerLogMessages - Test PASSED: normalHatosLottoTest
+2024-03-24 11:53:16 [INFO ] driverFrameworkCore.utils.ListenerLogMessages - Test STARTED: scratchTest
+2024-03-24 11:53:23 [INFO ] szerencsejatek.common.homeAndLogin.pages.HomePage - We click on the "Osszes engedelyezese" button
+2024-03-24 11:53:29 [INFO ] szerencsejatek.common.homeAndLogin.pages.HomePage - We click on the "Belepes es regisztracio" button
+2024-03-24 11:53:29 [INFO ] szerencsejatek.common.homeAndLogin.pages.LoginPage - We fill the name input field with the 'Szabolcs888'
+2024-03-24 11:53:29 [INFO ] szerencsejatek.common.homeAndLogin.pages.LoginPage - We fill the password input field with the password
+2024-03-24 11:53:29 [INFO ] szerencsejatek.common.homeAndLogin.pages.LoginPage - We click on the "Bejelentkezes" button
+2024-03-24 11:53:34 [INFO ] szerencsejatek.common.homeAndLogin.pages.HomePageLoggedin - We click on the "SORSJEGYEK" button
+2024-03-24 11:53:38 [INFO ] szerencsejatek.common.homeAndLogin.pages.HomePageLoggedin - We click on the "E-sorsjegy" button
+2024-03-24 11:53:41 [INFO ] szerencsejatek.sorsjegyek.pages.ESorsjegyekPage - We click on the "Reszletek" button of the 'Black Jack' E-lottery ticket
+2024-03-24 11:53:44 [INFO ] szerencsejatek.sorsjegyek.pages.BlackJackPrePage - We click on the "PROBAJATEK INDITASA" option button
+2024-03-24 11:53:45 [INFO ] szerencsejatek.sorsjegyek.pages.BlackJackPage - We click on the "key" button
+2024-03-24 11:53:48 [INFO ] szerencsejatek.sorsjegyek.pages.BlackJackPage - We scroll down to the lottery ticket
+2024-03-24 11:54:20 [INFO ] szerencsejatek.sorsjegyek.pages.BlackJackPage - We scratch off the main field on the lottery ticket
+2024-03-24 11:54:37 [INFO ] szerencsejatek.sorsjegyek.pages.BlackJackPage - We scratch off the side field on the lottery ticket
+2024-03-24 11:54:39 [INFO ] szerencsejatek.sorsjegyek.pages.BlackJackPage - We click on the "Mutasd!" button
+2024-03-24 11:54:41 [INFO ] szerencsejatek.sorsjegyek.tests.ScratchTests - The message text is valid
+2024-03-24 11:54:41 [INFO ] driverFrameworkCore.utils.ListenerLogMessages - Test PASSED: scratchTest
+2024-03-24 17:14:28 [INFO ] driverFrameworkCore.utils.ListenerLogMessages - Test STARTED: expectedOperationOfTheOrderMenuInLoginTestOnSorsjegyekPage
+2024-03-24 17:14:34 [INFO ] szerencsejatek.common.homeAndLogin.pages.HomePage - We click on the "Osszes engedelyezese" button
+2024-03-24 17:14:39 [INFO ] szerencsejatek.common.homeAndLogin.pages.HomePage - We click on the "Belepes es regisztracio" button
+2024-03-24 17:14:39 [INFO ] szerencsejatek.common.homeAndLogin.pages.LoginPage - We fill the name input field with the 'Szabolcs888'
+2024-03-24 17:14:39 [INFO ] szerencsejatek.common.homeAndLogin.pages.LoginPage - We fill the password input field with the password
+2024-03-24 17:14:40 [INFO ] szerencsejatek.common.homeAndLogin.pages.LoginPage - We click on the "Bejelentkezes" button
+2024-03-24 17:14:45 [INFO ] szerencsejatek.common.homeAndLogin.pages.HomePageLoggedin - We click on the "SORSJEGYEK" button
+2024-03-24 17:14:50 [INFO ] szerencsejatek.common.homeAndLogin.pages.HomePageLoggedin - We click on the "Sorsjegy" button
+2024-03-24 17:14:50 [INFO ] szerencsejatek.sorsjegyek.pages.SorsjegyekPage - We click on the "Sorsjegyek rendezese" button
+2024-03-24 17:14:51 [INFO ] szerencsejatek.sorsjegyek.pages.SorsjegyekPage - We click on the "Ar szerint szerint novekvo" option button
+2024-03-24 17:14:51 [ERROR] szerencsejatek.sorsjegyek.tests.DropdownMenuTests - The contents of the two lists are not identical, the items are not in the expected order
+2024-03-24 17:14:51 [ERROR] driverFrameworkCore.utils.ListenerLogMessages - Method FAILED: expectedOperationOfTheOrderMenuInLoginTestOnSorsjegyekPage
+2024-03-24 17:17:12 [INFO ] driverFrameworkCore.utils.ListenerLogMessages - Test STARTED: navigateToESorsjegyekPageInLoginTest
+2024-03-24 17:17:17 [INFO ] szerencsejatek.common.homeAndLogin.pages.HomePage - We click on the "Osszes engedelyezese" button
+2024-03-24 17:17:23 [INFO ] szerencsejatek.common.homeAndLogin.pages.HomePage - We click on the "Belepes es regisztracio" button
+2024-03-24 17:17:23 [INFO ] szerencsejatek.common.homeAndLogin.pages.LoginPage - We fill the name input field with the 'Szabolcs888'
+2024-03-24 17:17:24 [INFO ] szerencsejatek.common.homeAndLogin.pages.LoginPage - We fill the password input field with the password
+2024-03-24 17:17:24 [INFO ] szerencsejatek.common.homeAndLogin.pages.LoginPage - We click on the "Bejelentkezes" button
+2024-03-24 17:17:29 [INFO ] szerencsejatek.common.homeAndLogin.pages.HomePageLoggedin - We click on the "SORSJEGYEK" button
+2024-03-24 17:17:33 [INFO ] szerencsejatek.common.homeAndLogin.pages.HomePageLoggedin - We click on the "E-sorsjegy" button
+2024-03-24 17:17:34 [INFO ] szerencsejatek.sorsjegyek.tests.SorsjegyekBasicTests - The title of the E-sorsjegyek page is displayed
+2024-03-24 17:17:34 [INFO ] driverFrameworkCore.utils.ListenerLogMessages - Test PASSED: navigateToESorsjegyekPageInLoginTest
