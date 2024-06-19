@@ -66,3 +66,17 @@
 2024-03-24 17:17:33 [INFO ] szerencsejatek.common.homeAndLogin.pages.HomePageLoggedin - We click on the "E-sorsjegy" button
 2024-03-24 17:17:34 [INFO ] szerencsejatek.sorsjegyek.tests.SorsjegyekBasicTests - The title of the E-sorsjegyek page is displayed
 2024-03-24 17:17:34 [INFO ] driverFrameworkCore.utils.ListenerLogMessages - Test PASSED: navigateToESorsjegyekPageInLoginTest
+2024-06-19 21:06:53 [WARN ] driverFrameworkCore.utils.Utils - The testDatas file is not found!
+2024-06-19 21:07:00 [INFO ] driverFrameworkCore.utils.ListenerLogMessages - Test STARTED: normalHatosLottoTest
+2024-06-19 21:07:06 [INFO ] szerencsejatek.common.homeAndLogin.pages.HomePage - We click on the "Osszes engedelyezese" button
+2024-06-19 21:07:15 [INFO ] szerencsejatek.common.homeAndLogin.pages.HomePage - We click on the "Belepes es regisztracio" button
+2024-06-19 21:07:15 [WARN ] driverFrameworkCore.utils.Utils - The testDatas file is not found!
+2024-06-19 21:07:15 [ERROR] driverFrameworkCore.utils.ListenerLogMessages - Method FAILED: normalHatosLottoTest
+2024-06-19 21:10:21 [INFO ] driverFrameworkCore.utils.ListenerLogMessages - Test STARTED: normalHatosLottoTest
+2024-06-19 21:10:24 [INFO ] szerencsejatek.common.homeAndLogin.pages.HomePage - We click on the "Osszes engedelyezese" button
+2024-06-19 21:10:33 [INFO ] szerencsejatek.common.homeAndLogin.pages.HomePage - We click on the "Belepes es regisztracio" button
+2024-06-19 21:10:33 [INFO ] szerencsejatek.common.homeAndLogin.pages.LoginPage - We fill the name input field with the 'Szabolcs888'
+2024-06-19 21:10:33 [INFO ] szerencsejatek.common.homeAndLogin.pages.LoginPage - We fill the password input field with the password
+2024-06-19 21:10:33 [INFO ] szerencsejatek.common.homeAndLogin.pages.LoginPage - We click on the "Bejelentkezes" button
+2024-06-19 21:10:37 [INFO ] szerencsejatek.lotto.tests.HatosLottoTests - The dropdown menu is available
+2024-06-19 21:10:37 [ERROR] driverFrameworkCore.utils.ListenerLogMessages - Method FAILED: normalHatosLottoTest
