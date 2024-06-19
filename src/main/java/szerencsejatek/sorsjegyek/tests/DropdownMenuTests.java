@@ -4,6 +4,7 @@ import driverFrameworkCore.DriverFactory;
 import driverFrameworkCore.utils.ListenerLogMessages;
 import driverFrameworkCore.utils.Utils;
 import jdk.jfr.Description;
+import org.apache.log4j.Logger;
 import org.testng.Assert;
 import org.testng.annotations.Listeners;
 import org.testng.annotations.Test;
@@ -16,8 +17,6 @@ import szerencsejatek.sorsjegyek.pages.SorsjegyekPage;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
-
-import org.apache.log4j.Logger;
 
 @Listeners(ListenerLogMessages.class)
 public class DropdownMenuTests extends DriverFactory {

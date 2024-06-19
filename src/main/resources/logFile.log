@@ -80,3 +80,37 @@
 2024-06-19 21:10:33 [INFO ] szerencsejatek.common.homeAndLogin.pages.LoginPage - We click on the "Bejelentkezes" button
 2024-06-19 21:10:37 [INFO ] szerencsejatek.lotto.tests.HatosLottoTests - The dropdown menu is available
 2024-06-19 21:10:37 [ERROR] driverFrameworkCore.utils.ListenerLogMessages - Method FAILED: normalHatosLottoTest
+2024-06-20 01:40:05 [INFO ] driverFrameworkCore.utils.ListenerLogMessages - Test STARTED: navigateToESorsjegyekPageInLoginTest
+2024-06-20 01:40:09 [INFO ] szerencsejatek.common.homeAndLogin.pages.HomePage - We click on the "Osszes engedelyezese" button
+2024-06-20 01:40:18 [INFO ] szerencsejatek.common.homeAndLogin.pages.HomePage - We click on the "Belepes es regisztracio" button
+2024-06-20 01:40:18 [INFO ] szerencsejatek.common.homeAndLogin.pages.LoginPage - We fill the name input field with the 'Szabolcs888'
+2024-06-20 01:40:18 [INFO ] szerencsejatek.common.homeAndLogin.pages.LoginPage - We fill the password input field with the password
+2024-06-20 01:40:18 [INFO ] szerencsejatek.common.homeAndLogin.pages.LoginPage - We click on the "Bejelentkezes" button
+2024-06-20 01:40:23 [INFO ] szerencsejatek.common.homeAndLogin.pages.HomePageLoggedin - We click on the "SORSJEGYEK" button
+2024-06-20 01:40:34 [INFO ] szerencsejatek.common.homeAndLogin.pages.HomePageLoggedin - We click on the "E-sorsjegy" button
+2024-06-20 01:40:34 [INFO ] szerencsejatek.sorsjegyek.tests.SorsjegyekBasicTests - The title of the E-sorsjegyek page is displayed
+2024-06-20 01:40:34 [INFO ] driverFrameworkCore.utils.ListenerLogMessages - Test PASSED: navigateToESorsjegyekPageInLoginTest
+2024-06-20 01:42:16 [INFO ] driverFrameworkCore.utils.ListenerLogMessages - Test STARTED: navigateToESorsjegyekPageInLoginTest
+2024-06-20 01:42:20 [INFO ] szerencsejatek.common.homeAndLogin.pages.HomePage - We click on the "Osszes engedelyezese" button
+2024-06-20 01:42:26 [INFO ] szerencsejatek.common.homeAndLogin.pages.HomePage - We click on the "Belepes es regisztracio" button
+2024-06-20 01:42:26 [INFO ] szerencsejatek.common.homeAndLogin.pages.LoginPage - We fill the name input field with the 'Szabolcs888'
+2024-06-20 01:42:27 [INFO ] szerencsejatek.common.homeAndLogin.pages.LoginPage - We fill the password input field with the password
+2024-06-20 01:42:27 [INFO ] szerencsejatek.common.homeAndLogin.pages.LoginPage - We click on the "Bejelentkezes" button
+2024-06-20 01:42:32 [ERROR] driverFrameworkCore.utils.ListenerLogMessages - Method FAILED: navigateToESorsjegyekPageInLoginTest
+2024-06-20 01:43:18 [INFO ] szerencsejatek.common.homeAndLogin.pages.HomePage - We click on the "Osszes engedelyezese" button
+2024-06-20 01:43:25 [INFO ] szerencsejatek.common.homeAndLogin.pages.HomePage - We click on the "Belepes es regisztracio" button
+2024-06-20 01:43:38 [INFO ] szerencsejatek.common.homeAndLogin.pages.HomePage - We click on the "Osszes engedelyezese" button
+2024-06-20 01:43:47 [INFO ] szerencsejatek.common.homeAndLogin.pages.HomePage - We click on the "Belepes es regisztracio" button
+2024-06-20 01:43:47 [INFO ] szerencsejatek.common.homeAndLogin.pages.LoginPage - We fill the name input field with the 'Szabolcs888'
+2024-06-20 01:43:47 [INFO ] szerencsejatek.common.homeAndLogin.pages.LoginPage - We fill the password input field with the password
+2024-06-20 01:43:47 [INFO ] szerencsejatek.common.homeAndLogin.pages.LoginPage - We click on the "Bejelentkezes" button
+2024-06-20 01:44:07 [INFO ] szerencsejatek.common.homeAndLogin.pages.HomePage - We click on the "Osszes engedelyezese" button
+2024-06-20 01:44:16 [INFO ] szerencsejatek.common.homeAndLogin.pages.HomePage - We click on the "Belepes es regisztracio" button
+2024-06-20 01:44:16 [INFO ] szerencsejatek.common.homeAndLogin.pages.LoginPage - We fill the name input field with the 'Szabolcs888'
+2024-06-20 01:44:17 [INFO ] szerencsejatek.common.homeAndLogin.pages.LoginPage - We fill the password input field with the password
+2024-06-20 01:44:17 [INFO ] szerencsejatek.common.homeAndLogin.pages.LoginPage - We click on the "Bejelentkezes" button
+2024-06-20 01:44:43 [INFO ] szerencsejatek.common.homeAndLogin.pages.HomePage - We click on the "Osszes engedelyezese" button
+2024-06-20 01:45:11 [INFO ] szerencsejatek.common.homeAndLogin.pages.HomePage - We click on the "Belepes es regisztracio" button
+2024-06-20 01:45:11 [INFO ] szerencsejatek.common.homeAndLogin.pages.LoginPage - We fill the name input field with the 'Szabolcs888'
+2024-06-20 01:45:11 [INFO ] szerencsejatek.common.homeAndLogin.pages.LoginPage - We fill the password input field with the password
+2024-06-20 01:45:12 [INFO ] szerencsejatek.common.homeAndLogin.pages.LoginPage - We click on the "Bejelentkezes" button

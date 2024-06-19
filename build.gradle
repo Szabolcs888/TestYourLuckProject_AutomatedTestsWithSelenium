@@ -2,7 +2,7 @@ plugins {
     id 'java'
 }
 
-group = 'hu.progmatic.taf'
+group = 'org.example'
 version = '1.0-SNAPSHOT'
 
 repositories {
@@ -10,13 +10,14 @@ repositories {
 }
 
 dependencies {
-    testImplementation platform('org.junit:junit-bom:5.9.1')
+    testImplementation platform('org.junit:junit-bom:5.10.0')
     testImplementation 'org.junit.jupiter:junit-jupiter'
+
     implementation 'org.seleniumhq.selenium:selenium-java:4.17.0'
     implementation 'org.testng:testng:7.9.0'
     implementation 'log4j:log4j:1.2.17'
 }
 
 test {
-    useTestNG()
+    useJUnitPlatform()
 }
