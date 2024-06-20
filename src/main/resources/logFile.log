@@ -114,3 +114,34 @@
 2024-06-20 01:45:11 [INFO ] szerencsejatek.common.homeAndLogin.pages.LoginPage - We fill the name input field with the 'Szabolcs888'
 2024-06-20 01:45:11 [INFO ] szerencsejatek.common.homeAndLogin.pages.LoginPage - We fill the password input field with the password
 2024-06-20 01:45:12 [INFO ] szerencsejatek.common.homeAndLogin.pages.LoginPage - We click on the "Bejelentkezes" button
+2024-06-20 01:57:04 [INFO ] driverFrameworkCore.utils.ListenerLogMessages - Test STARTED: expectedOperationOfTheOrderMenuInLoginTestOnESorsjegyekPage
+2024-06-20 01:57:10 [INFO ] szerencsejatek.common.homeAndLogin.pages.HomePage - We click on the "Osszes engedelyezese" button
+2024-06-20 01:57:19 [INFO ] szerencsejatek.common.homeAndLogin.pages.HomePage - We click on the "Belepes es regisztracio" button
+2024-06-20 01:57:19 [INFO ] szerencsejatek.common.homeAndLogin.pages.LoginPage - We fill the name input field with the 'Szabolcs888'
+2024-06-20 01:57:19 [INFO ] szerencsejatek.common.homeAndLogin.pages.LoginPage - We fill the password input field with the password
+2024-06-20 01:57:19 [INFO ] szerencsejatek.common.homeAndLogin.pages.LoginPage - We click on the "Bejelentkezes" button
+2024-06-20 01:57:24 [INFO ] szerencsejatek.common.homeAndLogin.pages.HomePageLoggedin - We click on the "SORSJEGYEK" button
+2024-06-20 01:57:28 [INFO ] szerencsejatek.common.homeAndLogin.pages.HomePageLoggedin - We click on the "E-sorsjegy" button
+2024-06-20 01:57:29 [INFO ] szerencsejatek.sorsjegyek.pages.ESorsjegyekPage - We click on the "E-sorsjegyek rendezese" button
+2024-06-20 01:57:29 [INFO ] szerencsejatek.sorsjegyek.pages.ESorsjegyekPage - We click on the "Fonyeremeny szerint novekvo" option button
+2024-06-20 01:57:30 [INFO ] szerencsejatek.sorsjegyek.tests.DropdownMenuTests - The contents of the two lists are identical, the items are in the expected order
+2024-06-20 01:57:30 [INFO ] driverFrameworkCore.utils.ListenerLogMessages - Test PASSED: expectedOperationOfTheOrderMenuInLoginTestOnESorsjegyekPage
+2024-06-20 02:00:43 [INFO ] driverFrameworkCore.utils.ListenerLogMessages - Test STARTED: expectedOperationOfTheOrderMenuInLoginTestOnESorsjegyekPage
+2024-06-20 02:00:47 [INFO ] szerencsejatek.common.homeAndLogin.pages.HomePage - We click on the "Osszes engedelyezese" button
+2024-06-20 02:00:56 [INFO ] szerencsejatek.common.homeAndLogin.pages.HomePage - We click on the "Belepes es regisztracio" button
+2024-06-20 02:00:56 [INFO ] szerencsejatek.common.homeAndLogin.pages.LoginPage - We fill the name input field with the 'Szabolcs888'
+2024-06-20 02:00:56 [INFO ] szerencsejatek.common.homeAndLogin.pages.LoginPage - We fill the password input field with the password
+2024-06-20 02:00:57 [INFO ] szerencsejatek.common.homeAndLogin.pages.LoginPage - We click on the "Bejelentkezes" button
+2024-06-20 02:01:02 [INFO ] szerencsejatek.common.homeAndLogin.pages.HomePageLoggedin - We click on the "SORSJEGYEK" button
+2024-06-20 02:01:06 [INFO ] szerencsejatek.common.homeAndLogin.pages.HomePageLoggedin - We click on the "E-sorsjegy" button
+2024-06-20 02:01:06 [INFO ] szerencsejatek.sorsjegyek.pages.ESorsjegyekPage - We click on the "E-sorsjegyek rendezese" button
+2024-06-20 02:01:07 [INFO ] szerencsejatek.sorsjegyek.pages.ESorsjegyekPage - We click on the "Fonyeremeny szerint novekvo" option button
+2024-06-20 02:01:07 [INFO ] szerencsejatek.sorsjegyek.tests.DropdownMenuTests - The contents of the two lists are identical, the items are in the expected order
+2024-06-20 02:01:07 [INFO ] driverFrameworkCore.utils.ListenerLogMessages - Test PASSED: expectedOperationOfTheOrderMenuInLoginTestOnESorsjegyekPage
+2024-06-20 02:01:57 [INFO ] driverFrameworkCore.utils.ListenerLogMessages - Test STARTED: expectedOperationOfTheOrderMenuInLoginTestOnESorsjegyekPage
+2024-06-20 02:02:00 [INFO ] szerencsejatek.common.homeAndLogin.pages.HomePage - We click on the "Osszes engedelyezese" button
+2024-06-20 02:02:09 [INFO ] szerencsejatek.common.homeAndLogin.pages.HomePage - We click on the "Belepes es regisztracio" button
+2024-06-20 02:02:09 [INFO ] szerencsejatek.common.homeAndLogin.pages.LoginPage - We fill the name input field with the 'Szabolcs888'
+2024-06-20 02:02:09 [INFO ] szerencsejatek.common.homeAndLogin.pages.LoginPage - We fill the password input field with the password
+2024-06-20 02:02:09 [INFO ] szerencsejatek.common.homeAndLogin.pages.LoginPage - We click on the "Bejelentkezes" button
+2024-06-20 02:02:14 [ERROR] driverFrameworkCore.utils.ListenerLogMessages - Method FAILED: expectedOperationOfTheOrderMenuInLoginTestOnESorsjegyekPage
