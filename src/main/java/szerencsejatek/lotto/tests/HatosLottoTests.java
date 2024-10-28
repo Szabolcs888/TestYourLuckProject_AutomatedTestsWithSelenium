@@ -48,7 +48,7 @@ public class HatosLottoTests extends DriverFactory {
         Assert.assertTrue(homePageLoggedin.isDropDownMenuButton());
 
         //Click on 'LOTTÓK' menu
-        //homePageLoggedin.clickOnLottokButton();
+        homePageLoggedin.clickOnLottokButton();
 
         //Move cursor above 'Hatoslottó' menu
         homePageLoggedin.hoverOverHatoslottoButton();
