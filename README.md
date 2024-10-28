@@ -1,4 +1,4 @@
-# Test your luck Project
+# Test your luck Project (Automated tests with Selenium)
 
 #### This repository hosts the automated tests of the TestYourLuck team project of the Progmatic Academy's test automation training (2023-24), which we used to test a popular website. Since we created this project together at the time, we finished it, so there will be no further development.
 
