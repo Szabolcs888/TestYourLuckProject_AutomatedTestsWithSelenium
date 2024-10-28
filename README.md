@@ -1,4 +1,4 @@
-# TestYourLuck_Project
+# Test your luck Project
 
 #### This repository hosts the automated tests of the TestYourLuck team project of the Progmatic Academy's test automation training (2023-24), which we used to test a popular website. Since we created this project together at the time, we finished it, so there will be no further development.
 
