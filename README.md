@@ -9,6 +9,8 @@ Example:
 >ki7%34aQ<br/>
 >Firefox
 
+#
+#
 
 #### Ez a repository a Progmatic Academy tesztautomatizáló képzésének (2023-24) TestYourLuck csapatprojektjének automatizált tesztjeinek ad helyet. Mivel akkoriban ezt a projektet közösen készítettük, be is fejeztük, így nem lesz további fejlesztés.
 
